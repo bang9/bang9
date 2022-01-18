@@ -1,5 +1,17 @@
-<a href="https://bang9.github.io">
-  <img align="center" alt="profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/about-dot-me.svg" />
-</a>
-<img align="center" alt='bang9's Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBang9&count_bg=%23AF6BFF&title_bg=%23555555&icon=react.svg&icon_color=%23FFFFFF&title=bang9dev&edge_flat=false" />
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=Bang9&show_icons=false&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeffa&text_color=fff">
+[![][resume]](https://bang9.github.io)
+[![][linkedin]](https://www.linkedin.com/in/%ED%98%84%EA%B5%AC-%EA%B0%95-0991aa207)
+[![][blog]](https://velog.io/@bang9dev)
+[![][hits]](https://github.com/bang9)
+
+[![][stats]](https://bang9.github.io)
+
+<!---------------------------
+-----------------------------
+---------------------------->
+
+[resume]: https://img.shields.io/badge/Resume-742ddd?style=flat&logoColor=white&logo=QuickLook
+[linkedin]: https://img.shields.io/badge/LinkedIn-blue?style=flat&logoColor=white&logo=LinkedIn
+[blog]: https://img.shields.io/badge/Blog-20c997?style=flat&logoColor=white&logo=GitBook
+
+[hits]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBang9&count_bg=black&title_bg=%23555555&title=Views
+[stats]: https://github-readme-stats.vercel.app/api?username=Bang9&show_icons=false&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeffa&text_color=fff
