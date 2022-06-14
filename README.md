@@ -5,7 +5,9 @@
 [![][read]](https://github.com/bang9/What-I-Read)
 [![][hits]](https://github.com/bang9)
 
-[![][stats]](https://bang9.github.io)
+[<img src="https://github-readme-stats.vercel.app/api?username=Bang9&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff" alt="my github stats" width="443"/>](https://bang9.github.io)
+
+<!-- [![][stats]](https://bang9.github.io) -->
 
 <!---------------------------
 ---------------------------->
@@ -17,4 +19,4 @@
 [read]: https://img.shields.io/badge/Read-f0a900?style=flat&logoColor=white&logo=BookStack
 
 [hits]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBang9&count_bg=black&title_bg=%23555555&title=Views
-[stats]: https://github-readme-stats.vercel.app/api?username=Bang9&show_icons=false&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeffa&text_color=fff
+[stats]: https://github-readme-stats.vercel.app/api?username=Bang9&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff
