@@ -7,7 +7,7 @@
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Bang9&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff" alt="my github stats" width="441" />](https://bang9.github.io)
 
-[<img src="https://github-contributor-stats.vercel.app/api?username=bang9&hide=B,B%2B" width="441" />](https://bang9.github.io)
+[<img src="https://github-contributor-stats.vercel.app/api?username=bang9&hide=B,B%2B&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff" width="441" />](https://bang9.github.io)
 
 <!-- [![][stats]](https://bang9.github.io) -->
 
