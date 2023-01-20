@@ -3,7 +3,6 @@
 [![][mail]](mailto:gusrn1423@naver.com)
 [![][blog]](https://velog.io/@bang9dev)
 [![][read]](https://github.com/bang9/What-I-Read)
-[![][hits]](https://github.com/bang9)
 
 *I'm an __Engineer__ who loves everything creative.*
 
@@ -22,5 +21,4 @@
 [mail]: https://img.shields.io/badge/Mail-ea4335?style=flat&logoColor=white&logo=Gmail
 [read]: https://img.shields.io/badge/Read-f0a900?style=flat&logoColor=white&logo=BookStack
 
-[hits]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBang9&count_bg=black&title_bg=%23555555&title=Views
 [stats]: https://github-readme-stats.vercel.app/api?username=Bang9&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff
