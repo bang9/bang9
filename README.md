@@ -1,4 +1,4 @@
-__Just shortcut about me ⭐️__
+__⭐️ Just shortcut about me__
 
 [![][resume]](https://bang9.github.io)
 [![][linkedin]](https://www.linkedin.com/in/%ED%98%84%EA%B5%AC-%EA%B0%95-0991aa207)
