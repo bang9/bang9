@@ -1,10 +1,12 @@
+__Just shortcut about me ⭐️__
+
 [![][resume]](https://bang9.github.io)
 [![][linkedin]](https://www.linkedin.com/in/%ED%98%84%EA%B5%AC-%EA%B0%95-0991aa207)
 [![][mail]](mailto:gusrn1423@naver.com)
 [![][blog]](https://velog.io/@bang9dev)
 [![][read]](https://github.com/bang9/What-I-Read)
 
-*I'm an __Engineer__ who loves everything creative.*
+<!-- *I'm an __Engineer__ who loves everything creative.* -->
 
 <!-- [<img src="https://github-readme-stats.vercel.app/api?username=Bang9&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff" alt="my github stats" width="441" />](https://bang9.github.io) -->
 
