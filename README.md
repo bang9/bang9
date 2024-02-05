@@ -31,7 +31,7 @@
 | repository                                      | pull requests                                                                                                                                                                                                                       |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | facebook/react-native                           | [#31272](https://github.com/facebook/react-native/pull/31272), [#32815](https://github.com/facebook/react-native/pull/32815), [#37258](https://github.com/facebook/react-native/pull/37258) |
-| facebook/react-native-webstie                   | [#2566](https://github.com/facebook/react-native-website/pull/2566), [#3418](https://github.com/facebook/react-native-website/pull/3418) |
+| facebook/react-native-website                   | [#2566](https://github.com/facebook/react-native-website/pull/2566), [#3418](https://github.com/facebook/react-native-website/pull/3418) |
 | invertase/notifee                               | [#414](https://github.com/invertase/notifee/pull/414), [#447](https://github.com/invertase/notifee/pull/447) |
 | zoontek/react-native-permissions                | [#701](https://github.com/zoontek/react-native-permissions/pull/701) |
 | react-native-cameraroll/react-native-cameraroll | [#488](https://github.com/react-native-cameraroll/react-native-cameraroll/pull/488) |
