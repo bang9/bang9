@@ -1,6 +1,5 @@
 ## ⭐️ Just shortcut about me
 
-[![][resume]](https://bang9.github.io)
 [![][linkedin]](https://www.linkedin.com/in/%ED%98%84%EA%B5%AC-%EA%B0%95-0991aa207)
 [![][mail]](mailto:gusrn1423@naver.com)
 [![][blog]](https://velog.io/@bang9dev)
