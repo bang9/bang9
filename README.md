@@ -24,8 +24,10 @@
 
 [stats]: https://github-readme-stats.vercel.app/api?username=Bang9&show_icons=true&icon_color=ffffff&count_private=true&bg_color=30,fbc2eb,a6c1ee&title_color=ffeeff&text_color=fff
 
-
-## 🤝 Contributions
+<details>
+<summary>
+  <h2>🤝 Contributions</h2>
+</summary>
 
 | repository                                      | pull requests                                                                                                                                                                                                                       |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -45,7 +47,7 @@
 | aksonov/react-native-router-flux                | [#3493](https://github.com/aksonov/react-native-router-flux/pull/3493) |
 | jdmunro/react-native-spotlight-search           | [#14](https://github.com/jdmunro/react-native-spotlight-search/pull/14) |
 | aws-solutions/video-on-demand-on-aws            | [#99](https://github.com/aws-solutions/video-on-demand-on-aws/pull/99) |
-
+</details>
 
 <!--
 
