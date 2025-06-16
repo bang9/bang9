@@ -33,6 +33,7 @@
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | facebook/react-native                           | [#31272](https://github.com/facebook/react-native/pull/31272), [#32815](https://github.com/facebook/react-native/pull/32815), [#37258](https://github.com/facebook/react-native/pull/37258) |
 | facebook/react-native-website                   | [#2566](https://github.com/facebook/react-native-website/pull/2566), [#3418](https://github.com/facebook/react-native-website/pull/3418) |
+| expo/expo                                       | [#36142](https://github.com/expo/expo/pull/36142)
 | react-native-community/cli                      | [#2543](https://github.com/react-native-community/cli/pull/2543)
 | invertase/notifee                               | [#414](https://github.com/invertase/notifee/pull/414), [#447](https://github.com/invertase/notifee/pull/447) |
 | zoontek/react-native-permissions                | [#701](https://github.com/zoontek/react-native-permissions/pull/701) |
